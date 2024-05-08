@@ -32,10 +32,9 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## CODE:
-
 
 ## OUTPUT:
+![Uploading WhatsApp Image 2024-05-07 at 14.40.38_f3e4bfc7.jpg…]()
 
 
 ## RESULT:
