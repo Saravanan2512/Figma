@@ -34,7 +34,8 @@ Figma
 
 
 ## OUTPUT:
-![Uploading WhatsApp Image 2024-05-07 at 14.40.38_f3e4bfc7.jpg…]()
+![image](https://github.com/Saravanan2512/Figma/assets/144979117/d598b0eb-a92b-4ca5-b693-e404fa863102)
+
 
 
 ## RESULT:
